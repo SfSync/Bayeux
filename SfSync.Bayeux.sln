@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5DCC2FB4-821B-4A05-A477-D7E3DEB0CC76}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Bayeux.Client", "src\Bayeux.Client\Bayeux.Client.fsproj", "{2A74ED2B-F1BC-4ED9-B654-3056D46AE18A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bayeux.Sample.CS", "samples\Bayeux.Demo.CS\Bayeux.Sample.CS.csproj", "{1412DBBE-B181-4CDA-82CA-4EF92F89C0D2}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bayeux.Sample.FS", "samples\Bayeux.Demo.FS\Bayeux.Sample.FS.fsproj", "{344E9053-BC13-420A-9825-4DBBD52B3800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A74ED2B-F1BC-4ED9-B654-3056D46AE18A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A74ED2B-F1BC-4ED9-B654-3056D46AE18A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A74ED2B-F1BC-4ED9-B654-3056D46AE18A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A74ED2B-F1BC-4ED9-B654-3056D46AE18A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1412DBBE-B181-4CDA-82CA-4EF92F89C0D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1412DBBE-B181-4CDA-82CA-4EF92F89C0D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1412DBBE-B181-4CDA-82CA-4EF92F89C0D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1412DBBE-B181-4CDA-82CA-4EF92F89C0D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{344E9053-BC13-420A-9825-4DBBD52B3800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{344E9053-BC13-420A-9825-4DBBD52B3800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{344E9053-BC13-420A-9825-4DBBD52B3800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{344E9053-BC13-420A-9825-4DBBD52B3800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B7B2571-ED4B-419B-8287-E3A2F1BBECAB}
+	EndGlobalSection
+EndGlobal
