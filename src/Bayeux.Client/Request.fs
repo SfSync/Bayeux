@@ -1,6 +1,6 @@
-﻿namespace Sfsync.Bayeux.Client
+﻿namespace SfSync.Bayeux.Client
 
-open Sfsync.Bayeux.Client.Message
+open SfSync.Bayeux.Client.Message
 open System
 open Newtonsoft.Json
 

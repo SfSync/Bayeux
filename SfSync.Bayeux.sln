@@ -10,9 +10,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Bayeux.Client", "src\Bayeux.Client\Bayeux.Client.fsproj", "{2A74ED2B-F1BC-4ED9-B654-3056D46AE18A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bayeux.Sample.CS", "samples\Bayeux.Demo.CS\Bayeux.Sample.CS.csproj", "{1412DBBE-B181-4CDA-82CA-4EF92F89C0D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bayeux.Sample.CS", "samples\Bayeux.Demo.CS\Bayeux.Sample.CS.csproj", "{1412DBBE-B181-4CDA-82CA-4EF92F89C0D2}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bayeux.Sample.FS", "samples\Bayeux.Demo.FS\Bayeux.Sample.FS.fsproj", "{344E9053-BC13-420A-9825-4DBBD52B3800}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Bayeux.Sample.FS", "samples\Bayeux.Demo.FS\Bayeux.Sample.FS.fsproj", "{344E9053-BC13-420A-9825-4DBBD52B3800}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

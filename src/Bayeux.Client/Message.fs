@@ -1,4 +1,4 @@
-﻿namespace Sfsync.Bayeux.Client
+﻿namespace SfSync.Bayeux.Client
 
 /// <summary>
 /// <p>The Bayeux protocol exchange information by means of messages.</p>

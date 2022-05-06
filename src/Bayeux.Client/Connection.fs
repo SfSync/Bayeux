@@ -1,4 +1,4 @@
-﻿namespace Sfsync.Bayeux.Client
+﻿namespace SfSync.Bayeux.Client
 
 open FSharp.Core
 open System
